@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- French Canada Localisation -->
+    <!-- Main Activity -->
+    <string name="app_name">Photo match</string>
+    <string name="title">Cliquez sur les images en double</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="misses">Ratés</string>
+    <string name="missesCtr">0</string>
+    <string name="matches">Pareils</string>
+    <string name="matchesCtr">0</string>
+    <string name="totalMisses">Total Ratés</string>
+    <string name="totalMissesCtr">0</string>
+    <string name="totalMatches">Total Pareils</string>
+    <string name="totalMatchesCtr">0</string>
+    <string name="scramble">Mélanger</string>
+    <string name="about">Au sujet de</string>
+    <string name="rotate">Tourner</string>
+    <string name="zero">Zéro</string>
+    <string name="desc">L\'une des nombreuses images aléatoires choisis par le programme.</string>
+    <string name="winTitle">Tu as gagné!</string>
+    <string name="winMessage">Cliquez sur le bouton de Mélanger de jouer à nouveau.</string>
+    <string name="winButton">D\'accord</string>
+    <string name="missMessage">Vous avez manqué, essayez à nouveau.</string>
+    <string name="matchMessage">Trouvé il, trouver l\'autre exemplaire.</string>
+
+    <!-- About Activity -->
+    <string name="about_title">A propos de l\'image Match App</string>
+    <string name="author">auteurs: Daniel Vasile Badila, Christopher Dufort, Zheng Hua Zhu </string>
+    <string name="howToPlay">Il ya 9 images aléatoires qui sont affichés, deux sont un match. Appuyez sur les deux exemplaires de gagner. Appuyer sur une double va se cacher si rappelez-vous que l\'on était! Appuyez sur le bouton Remaniement à tout moment pour essayer à nouveau. Appuyez sur le bouton de rotation pour changer la vue. Appuyez sur ZERO pour effacer pointage de session en cours. </string>
+	<string name="backButton">Retour au jeu</string>
+	    
+</resources>

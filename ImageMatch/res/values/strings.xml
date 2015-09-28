@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- English United States Localisation -->
+    <!-- Main Activity -->
+    <string name="app_name">ImageMatch</string>
+    <string name="title">Click the duplicate images</string>
+    <string name="action_settings">Settings</string>
+    <string name="misses">Misses</string>
+    <string name="missesCtr">0</string>
+    <string name="matches">Matches</string>
+    <string name="matchesCtr">0</string>
+    <string name="totalMisses">Total Misses</string>
+    <string name="totalMissesCtr">0</string>
+    <string name="totalMatches">Total Matches</string>
+    <string name="totalMatchesCtr">0</string>
+    <string name="scramble">Scramble</string>
+    <string name="about">About</string>
+    <string name="rotate">Rotate</string>
+    <string name="zero">Zero</string>
+    <string name="desc">One of many random images selected by the program.</string>
+    <string name="winTitle">You have won!</string>
+    <string name="winMessage">Click the scramble button to play again.</string>
+    <string name="winButton">OK</string>
+    <string name="missMessage">You missed, try again.</string>
+    <string name="matchMessage">Found it, find the other duplicate.</string>
+
+    <!-- About Activity -->
+    <string name="about_title">About Image Match Game App</string>
+    <string name="author">Authors: Daniel Vasile Badila, Christopher Dufort, Zheng Hua Zhu </string>
+    <string name="howToPlay">There are 9 random images which are displayed, two are a match. Tap both duplicates to win. Pressing one duplicate will hide it so remember which one it was! Press the Reshuffle button at any time to try again. Press the rotate button to change the view. Press zero to clear current session score. </string>
+	<string name="backButton">Return to game</string>
+	    
+</resources>
